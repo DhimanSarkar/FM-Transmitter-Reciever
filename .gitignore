@@ -1,1 +1,3 @@
 *.ms14 (Security copy)
+*-backups/
+fp-info-cache
